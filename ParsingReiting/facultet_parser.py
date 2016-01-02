@@ -16,3 +16,8 @@ if __name__ == '__main__':
         if facultet_value != "0":
             f.write(facultet_value + ": " + facultet_name.encode('UTF-8') + '\n')
     f.close()
+
+   #
+   # ЗДЕСЬ 
+   # БЫЛ
+   # Я (Витя)
